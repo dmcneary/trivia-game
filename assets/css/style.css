@@ -1,0 +1,49 @@
+body {
+    background-image: url("../images/bg-main.jpg");
+    background-repeat: repeat;
+    color: #333;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+}
+h1, h2 {
+    color: #ddd;
+    width: 400px;
+    margin:20px auto;
+    text-align: center;
+}
+h1 {
+    background-color: #784314;
+}
+h2 {
+    background-color: #78141a;
+}
+#game-content {
+    background-image: url("../images/bg-game.png");
+    margin-top: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px 30px;
+    width: 500px;
+}
+.btn {
+    border: 2px dashed #14786C;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 20px;
+    text-align: center;
+}
+#start-button {
+    visibility: visible;
+}
+
+#timer-container {
+    text-align: center;
+    border-bottom: #78141a;
+    visibility: hidden;
+}
+
+#pick-mix {
+    text-align: left;
+}
+
+
