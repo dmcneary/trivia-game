@@ -32,14 +32,10 @@ h2 {
     padding: 20px;
     text-align: center;
 }
-#start-button {
-    visibility: visible;
-}
 
 #timer-container {
     text-align: center;
     border-bottom: #78141a;
-    visibility: hidden;
 }
 
 #pick-mix {
