@@ -12,7 +12,7 @@ h1, h2 {
     text-align: center;
 }
 h1 {
-    background-color: #784314;
+    background-color: #E0C375;
 }
 h2 {
     background-color: #78141a;
@@ -25,8 +25,18 @@ h2 {
     padding: 20px 30px;
     width: 500px;
 }
+
+#results {
+    text-align: center;
+}
+
+.btn:hover {
+    background-color: bisque;
+}
+
 .btn {
     border: 2px dashed #14786C;
+    background-color: peru;
     margin-left: auto;
     margin-right: auto;
     padding: 20px;
