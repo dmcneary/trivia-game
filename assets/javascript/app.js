@@ -176,8 +176,8 @@ function displayQuestion () {
     hideResults();
     $("#timer-container").show();
     showPickMix();
-    console.log(qsAs[questionId].answers[qsAs[questionId].answerIndex])
-    console.log([qsAs[questionId].answerIndex])
+    //console.log(qsAs[questionId].answers[qsAs[questionId].answerIndex])
+    //console.log([qsAs[questionId].answerIndex])
     $("#question").text(qsAs[questionId].question);
     $("#answer1").text(qsAs[questionId].answers[0]);
     $("#answer2").text(qsAs[questionId].answers[1]);
